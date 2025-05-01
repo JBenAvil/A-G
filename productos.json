@@ -2,86 +2,74 @@
     {
       "id": 1,
       "nombre": "Planchas Galvanizadas",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "Láminas de acero galvanizadas para proteger contra la corrosión. Ideales para techumbres, cierres perimetrales y estructuras exteriores.\n\nMedidas: Todas las medidas",
+      "imagen": "static/products/plancha_galvanizada.jpg"
     },
     {
       "id": 2,
       "nombre": "Planchas laminado en frío",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "Laminas procesadas a temperatura ambiente para lograr mayor precisión dimensional y mejor acabado superficial.\n\nUsadas en fabricación de muebles metálicos, estructuras livianas y automotriz.\n\nEsta plancha es perfecta para fabricar portones, cercos o incluso para proyectos industriales como la producción de electrodomésticos, incluyendo lavadoras y refrigeradores. Su superficie uniforme permite una fácil limpieza y mantenimiento, garantizando un acabado de alta calidad. Se adapta fácilmente a distintos usos y puede utilizarse en su forma original o esmaltarse para lograr un acabado más personalizado.\n\nMedidas: Todas las medidas",
+      "imagen": "static/products/plancha_laminada_en_frio.jpg"
     },
     {
       "id": 3,
       "nombre": "Construcción de obra",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "Ofrecemos un servicio integral de construcción para proyectos habitacionales, comerciales e industriales. Contamos con un equipo de profesionales y maestros especializados en cada etapa del proceso: desde la nivelación del terreno y estructuras, hasta instalaciones, terminaciones y detalles finales.\n\nTrabajamos con materiales de alta calidad y cumplimos estrictamente con los plazos y normativas vigentes. Ya sea una ampliación, una obra nueva o una remodelación, te acompañamos desde el diseño hasta la entrega final, asegurando un resultado sólido, funcional y duradero.",
+      "imagen": "static/products/construccion.jpg"
     },
     {
       "id": 4,
       "nombre": "Costaneras",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "El perfil costanera es una estructura de acero resistente, pensada para brindar soporte firme en proyectos como muros divisorios, techumbres y estructuras livianas.\n\nGracias a su excelente capacidad de unión mediante soldadura, es una solución versátil que garantiza solidez y durabilidad en todo tipo de obras, tanto residenciales como industriales.\n\nMedidas: Todas las medidas",
+      "imagen": "static/products/costanera.jpg"
     },
     {
       "id": 5,
       "nombre": "Rectangulares",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "Este perfil rectangular de acero ofrece una estructura sólida y confiable para tus proyectos.\n\nSu diseño estructural mejora el rendimiento frente a cargas de torsión y tracción, brindando mayor seguridad y resistencia.\n\nEs de fácil soldadura, lo que agiliza el proceso de montaje y permite una construcción más eficiente.\n\nIdeal para estructuras como muros, techumbres y marcos metálicos.\n\nMedidas: Todas las medidas",
+      "imagen": "static/products/rectangular.jpg"
     },
     {
       "id":6,
       "nombre": "Cuadrados",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "Perfil cuadrado de acero es una solución versátil y robusta para una amplia variedad de proyectos.\n\nSu formato tubular le otorga una excelente capacidad estructural, ideal para construcciones como muebles metálicos, rejas, cercos y estructuras tanto interiores como exteriores.\n\nFabricado en acero de alta calidad, ofrece gran resistencia mecánica y buena protección frente a la corrosión.\n\nSu forma simétrica y su espesor uniforme facilitan el corte, la perforación y la soldadura, adaptándose con precisión a los requerimientos de cada obra.\n\nMedidas: Todas las medidas",
+      "imagen": "static/products/perfil_cuadrado.jpg"
     },
     {
       "id": 7,
       "nombre": "Volcanitas",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "Las planchas Volcanita son una solución práctica y eficiente para revestir interiores.\n\nIdeales para proyectos de gran superficie.\n\nSu núcleo de yeso recubierto con celulosa garantiza resistencia, durabilidad y un acabado prolijo. El borde rebajado facilita el encaje entre placas, asegurando una instalación más rápida y profesional.\n\nLivianas y fáciles de manipular, son perfectas para tabiques, cielos y muros interiores.\n\nSu superficie lisa y color neutro permite pintarlas o terminarlas a gusto, adaptándose a cualquier estilo de decoración.\n\nMedidas: Todas las medidas",
+      "imagen": "static/products/volcanita.jpg"
     },
     {
       "id": 8,
       "nombre": "Ángulos laminados",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "El Ángulo Laminado de Acero es una pieza esencial en proyectos estructurales gracias a su resistencia y versatilidad.\n\nEstá diseñado para soportar cargas importantes sin deformarse, siendo ideal para marcos, refuerzos, cerramientos y estructuras metálicas.\n\nFabricado en acero laminado de alta calidad, su acabado negro le otorga una apariencia profesional, perfecta tanto para obras visibles como interiores.\n\nSu forma angular permite uniones firmes mediante soldadura o pernos, facilitando una instalación rápida y segura.\n\nEs una opción confiable para todo tipo de construcciones, desde detalles decorativos hasta estructuras de gran envergadura.\n\nMedidas: Todas las medidas",
+      "imagen": "static/products/angulo.jpg"
     },
     {
       "id": 9,
       "nombre": "Pletinas",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "La barra plana de acero laminado en caliente es una excelente opción para trabajos que exigen precisión y resistencia.\n\nOfrece un equilibrio ideal entre flexibilidad y firmeza, lo que la hace adecuada para fabricar piezas mecánicas como mordazas, abrazaderas o componentes estructurales.\n\nGracias a su proceso de laminado en caliente, posee una superficie más resistente y una mayor durabilidad frente a condiciones exigentes.\n\nSu acabado natural actúa como una barrera contra la corrosión, prolongando su vida útil.\n\nDiseñada con tolerancias exactas, esta barra asegura un ajuste confiable en distintas aplicaciones industriales y de construcción.\n\nMedidas: Todas las medidas",
+      "imagen": "static/products/pletinas.jpg"
     },
     {
       "id": 10,
       "nombre": "Tubos",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "Este tubo metálico es una opción práctica y decorativa para distintos espacios del hogar.\n\nSu estructura sólida garantiza durabilidad, mientras que su diseño limpio y contemporáneo se integra fácilmente en ambientes modernos o clásicos.\n\nGracias a su fácil instalación, es ideal para proyectos de organización, soporte o diseño interior, aportando tanto funcionalidad como estilo en cada rincón.\n\nMedidas: Todas las medidas",
+      "imagen": "static/products/tubos.jpg"
     },
     {
       "id": 11,
       "nombre": "Soldaduras",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "Varillas, electrodos y equipos para procesos de soldadura, esenciales para la unión de metales en construcción y fabricación.",
+      "imagen": "static/products/soldadura.jpg"
     },
     {
       "id": 12,
       "nombre": "Discos de corte y desbaste",
-      "descripcion": "Descripción...",
-      "precio": "$00.000",
-      "imagen": "img/img.jpg"
+      "descripcion": "Accesorios abrasivos para esmeriles, utilizados para cortar, pulir o desbastar metal, piedra u otros materiales duros.",
+      "imagen": "static/products/discos.jpg"
     }
   ]
   
