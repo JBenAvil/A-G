@@ -23,16 +23,18 @@ function getProductIdFromUrl() {
       document.getElementById('producto-imagen-container').innerHTML = `
         <img src="${producto.imagen}" alt="${producto.nombre}" class="producto-imagen"/>
       `;
-  
-      // Renderizar info
+
+       // Renderizar info
+
       document.getElementById('producto-info').innerHTML = `
         <h2>${producto.nombre}</h2>
         <p>${producto.descripcion}</p>
         <h4>Precio: ${producto.precio}</h4>
         <a class="whatsapp-btn" href="https://wa.me/56976603721?text=Hola,%20quiero%20más%20información%20sobre%20${encodeURIComponent(producto.nombre)}" target="_blank">
-          Consultar por WhatsApp
+          <i class="bi bi-whatsapp"></i> Consultar por WhatsApp
         </a>
       `;
+    
     } catch (error) {
       console.error('Error al cargar el producto:', error);
       document.getElementById('producto-info').innerHTML = `<h2>Error al cargar producto</h2>`;

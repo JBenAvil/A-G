@@ -64,6 +64,32 @@ body {
     padding-left: 0;
   }
 
+  .whatsapp-btn {
+    display: inline-flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: #25D366;
+    color: white;
+    font-weight: bold;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .whatsapp-btn:hover {
+    background-color: #1ebe57;
+    text-decoration: none;
+  }
+  
+  .whatsapp-btn i {
+    font-size: 1.2rem;
+  }
+  
+
   footer {
     background-color: #000000;
   }
