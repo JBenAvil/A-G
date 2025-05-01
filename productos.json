@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "nombre": "Planchas Galvanizadas",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Planchas laminado en frío",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Construcción de obra",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Costaneras",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Rectangulares",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id":6,
+      "nombre": "Cuadrados",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Volcanitas",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Ángulos laminados",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Pletinas",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Tubos",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Soldaduras",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Discos de corte y desbaste",
+      "descripcion": "Descripción...",
+      "precio": "$00.000",
+      "imagen": "img/img.jpg"
+    }
+  ]
+  

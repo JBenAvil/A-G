@@ -1,0 +1,70 @@
+body {
+    background: linear-gradient(to right, #000000, #444444);
+    color: white;
+  }
+
+  header {
+    background-color: #000000;
+  }
+
+  .oferta-marquesina {
+    overflow: hidden;
+    position: relative;
+    white-space: nowrap;
+  }
+  
+  .marquesina-texto {
+    display: inline-block;
+    padding-left: 100%;
+    animation: scroll-left 15s linear infinite;
+    font-size: 1.2rem;
+  }
+  
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }  
+
+  .product-link {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: transform 0.2s;
+  }
+
+  .product-link:hover {
+    transform: scale(1.02);
+    background-color: #f0f0f0;
+  }
+
+  .circle-icon {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background-color: #05fb63;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+
+  ul.list-unstyled {
+    padding-left: 0;
+  }
+
+  footer {
+    background-color: #000000;
+  }
+  
