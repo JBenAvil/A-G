@@ -1,0 +1,11 @@
+{
+    "name": "A&G",
+    "icons": [
+      {
+        "src": "static/icons/iconsA&G.jpg",
+        "type": "image/jpg",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
